@@ -45,3 +45,6 @@ npm install
 npm run dev
 
 http://localhost:8080
+```
+This is the personal portfolio website of Mwiseneza Patrick, a Business Information Technology enthusiast, electrician, and innovator.
+>>>>>>> 6f6e767308c1210784ebbf62bf807d84c2f807b9
