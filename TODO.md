@@ -1,12 +1,14 @@
-# Task: Fix non-clickable demo icon on Projects page
+# Patrick-3D-Portfolio Tasks
 
-## Steps from approved plan:
-- [x] Create TODO.md to track progress
-- [x] Replace custom demo/GitHub <a> tags in Projects.tsx with shadcn Button asChild
-- [x] Simplify button classes and ensure proper pointer-events/z-index (handled via Button component defaults)
-- [x] Test changes locally (run dev server, verify clicks open links)
+## Current Task: Fix GitHub Pages blank page (approved plan)
 
-## Follow-up:
-- Run `bun run dev` to test
-- attempt_completion once verified
+**Breakdown:**
+- [x] 1. Update vite.config.ts: set base: '/patrick-3d-portfolio/'
+- [x] 2. Update src/App.tsx: BrowserRouter basename="/patrick-3d-portfolio/"
+- [x] 3. Update package.json: add "deploy" script with gh-pages
+- [x] 4. Install gh-pages: npm i -D gh-pages
+- [x] 5. Test: npm run build, check dist/, npm run deploy
+- [ ] 7. Verify live site (wait for deploy + GitHub Pages propagation)
+
+Previous: Projects buttons fixed ✅
 
