@@ -16,8 +16,8 @@ export const Projects = () => {
     {
       title: "Coming Soon",
       description:
-        "Exciting projects in development. Stay tuned for innovative solutions in Business IT and technology.",
-      tags: ["React", "TypeScript", "Innovation"],
+        "A responsive real estate portfolio website built with React, Vite, Tailwind CSS, Bootstrap, and Framer Motion. Features smooth animations, project showcases, testimonials, and contact form.",
+      tags: ["React 19 + React DOM", "Vite (bundler)", "Tailwind CSS v4 + Bootstrap 5", "Framer Motion (animations)", "React Toastify (UI feedback)"],
       gradient: "from-primary/20 to-secondary/20",
       demoUrl: "https://real-estate-eight-bice.vercel.app/",
       githubUrl: "https://github.com/MwisenezaPatrick/real-estate",
