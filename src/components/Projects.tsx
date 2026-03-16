@@ -12,6 +12,15 @@ export const Projects = () => {
       gradient: "from-blue-500/20 to-green-500/20",
       demoUrl: "https://mwisenezapatrick.github.io/construction-react/",
       githubUrl: "https://github.com/mwisenezapatrick/",
+    },
+    {
+      title: "Coming Soon",
+      description:
+        "A responsive real estate portfolio website built with React, Vite, Tailwind CSS, Bootstrap, and Framer Motion. Features smooth animations, project showcases, testimonials, and contact form.",
+      tags: ["React 19 + React DOM", "Vite (bundler)", "Tailwind CSS v4 + Bootstrap 5", "Framer Motion (animations)", "React Toastify (UI feedback)"],
+      gradient: "from-primary/20 to-secondary/20",
+      demoUrl: "https://real-estate-eight-bice.vercel.app/",
+      githubUrl: "https://github.com/MwisenezaPatrick/real-estate",
     },/*
     {
       title: "Coming Soon",
