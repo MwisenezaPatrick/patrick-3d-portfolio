@@ -3,7 +3,7 @@
 This is the personal portfolio website of **Mwiseneza Patrick**, a Business Information Technology enthusiast, electrician, and innovator.
 
 ## Live Preview
-(Coming soon)
+https://mwisenezapatrick.github.io/patrick-3d-portfolio/
 
 ## Technologies Used
 - React
