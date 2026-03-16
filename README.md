@@ -2,10 +2,10 @@
 
 This is the personal portfolio website of **Mwiseneza Patrick**, a Business Information Technology enthusiast, electrician, and innovator.
 
-## 🚀 Live Preview
+## Live Preview
 (Coming soon)
 
-## 🛠️ Technologies Used
+## Technologies Used
 - React
 - TypeScript
 - Vite
@@ -14,7 +14,7 @@ This is the personal portfolio website of **Mwiseneza Patrick**, a Business Info
 - Framer Motion
 - Lucide Icons
 
-## 📂 Project Structure
+## Project Structure
 public/
 ├── logo.png
 ├── og-image.png
@@ -27,7 +27,7 @@ src/
 ├── App.tsx
 └── main.tsx
 
-## ✨ Features
+## Features
 - Responsive modern UI
 - Animated sections with Framer Motion
 - Downloadable CV
@@ -35,10 +35,10 @@ src/
 - Smooth scrolling navigation
 - Optimized SEO metadata
 
-## 📄 CV Download
+## CV Download
 Visitors can download my CV directly from the website.
 
-## 🧑‍💻 How to Run Locally
+## How to Run Locally
 
 ```bash
 npm install
