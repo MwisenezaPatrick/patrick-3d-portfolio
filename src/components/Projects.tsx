@@ -14,7 +14,7 @@ export const Projects = () => {
       githubUrl: "https://github.com/mwisenezapatrick/",
     },
     {
-      title: "Coming Soon",
+      title: "Real Estate",
       description:
         "A responsive real estate portfolio website built with React, Vite, Tailwind CSS, Bootstrap, and Framer Motion. Features smooth animations, project showcases, testimonials, and contact form.",
       tags: ["React 19 + React DOM", "Vite (bundler)", "Tailwind CSS v4 + Bootstrap 5", "Framer Motion (animations)", "React Toastify (UI feedback)"],
