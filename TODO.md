@@ -5,7 +5,7 @@
 2. [x] Run build: npm run build (done, success).
 3. [x] Deploy to GH Pages: npm run deploy (done).
 4. [x] Created GitHub Pages Actions workflow (.github/workflows/pages.yml) for automatic builds/deploys using GitHub Pages feature.
-5. [ ] Commit & push changes to trigger workflow.
-6. [ ] Wait for GitHub Actions to run and deploy (check repo Actions tab).
-7. [ ] Verify live site & no 404 (hard refresh, incognito).
+5. [x] Updated package.json deploy script to target g-pages branch.
+6. [x] Ran `npm run deploy` to build & push dist/ to g-pages branch.
+7. [ ] Verify live site https://mwisenezapatrick.github.io/patrick-3d-portfolio/ (wait 1-5 min, hard refresh/incognito, check Network tab).
 
