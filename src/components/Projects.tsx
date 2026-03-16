@@ -12,16 +12,16 @@ export const Projects = () => {
       gradient: "from-blue-500/20 to-green-500/20",
       demoUrl: "https://mwisenezapatrick.github.io/construction-react/",
       githubUrl: "https://github.com/mwisenezapatrick/",
-    },/*
+    },
     {
       title: "Coming Soon",
       description:
         "Exciting projects in development. Stay tuned for innovative solutions in Business IT and technology.",
       tags: ["React", "TypeScript", "Innovation"],
       gradient: "from-primary/20 to-secondary/20",
-      demoUrl: "https://your-demo-link.com",
-      githubUrl: "https://github.com/your-repo",
-    },
+      demoUrl: "https://real-estate-eight-bice.vercel.app/",
+      githubUrl: "https://github.com/MwisenezaPatrick/real-estate",
+    },/*
     {
       title: "Future Work",
       description:
