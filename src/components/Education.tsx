@@ -182,7 +182,10 @@ export const Education = () => {
           className="max-w-6xl mx-auto"
         >
           <h3 className="text-3xl font-display font-bold text-center mb-8">
-            <span className="gradient-text">Professional Certifications</span>
+            <span className="gradient-text">Professional Certifications  & LICENSES</span>
+          </h3>
+          <h3 className="text-3xl font-display font-bold text-left mb-8">
+            <span className="gradient-text">Holder of a valid Kenyan Driving License – Class B2 issued 2026</span>
           </h3>
 
           <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-4">
