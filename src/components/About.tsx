@@ -48,14 +48,14 @@ export const About = () => {
                     <div className="w-10 h-10 rounded-lg bg-primary/10 flex items-center justify-center">
                       <Mail className="w-5 h-5 text-primary" />
                     </div>
-                    <span className="break-all">patrick.mwiseneza@strathmore.edu</span>
+                    <span className="break-all">mwisenezap17@gmail.com</span>
                   </div>
-                  <div className="flex items-center gap-3 text-foreground">
+                  {/*   <div className="flex items-center gap-3 text-foreground">
                     <div className="w-10 h-10 rounded-lg bg-primary/10 flex items-center justify-center">
                       <Globe className="w-5 h-5 text-primary" />
                     </div>
                     <span>Rwandan</span>
-                  </div>
+                  </div>   */}
                 </div>
               </div>
             </Card>
